@@ -1,3 +1,14 @@
-# .gitignore
-node_modules/
-.env
+# Ignore node_modules from both frontend and backend
+server/node_modules/
+studentmanagement/node_modules/
+
+# Build outputs
+studentmanagement/dist/
+studentmanagement/build/
+
+# Environment files
+*.env
+
+# OS or editor stuff
+.DS_Store
+*.log
