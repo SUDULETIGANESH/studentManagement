@@ -10,6 +10,7 @@ app.use(cors())
 
 app.use('/api/student',studentRoutes);
 
+
 app.listen(port,()=>{
     console.log(`Server is running at http://localhost:${port}`)
 })
