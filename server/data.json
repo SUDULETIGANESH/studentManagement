@@ -1,17 +1,8 @@
 [
   {
-    "name": "Ganesh",
+    "id": "6b12aade-bced-42f0-9ddf-5d3f2eb76f3a",
+    "name": "Prakash",
     "department": "CSE",
-    "dob": "12/09/2001"
-  },
-  {
-    "name": "Mahesh",
-    "department": "CSE",
-    "dob": "22/10/2001"
-  },
-  {
-    "name": "Mahesh",
-    "department": "CSE",
-    "dob": "22/10/2001"
+    "dob": "22/10/2000"
   }
 ]
