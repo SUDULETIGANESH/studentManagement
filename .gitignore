@@ -1,11 +1,11 @@
 # Ignore node_modules from both frontend and backend
 server/node_modules/
-studentmanagement/node_modules/
+client/node_modules/
 node_modules/
 
 # Build outputs
-studentmanagement/dist/
-studentmanagement/build/
+dist/
+build/
 
 # Environment files
 *.env
